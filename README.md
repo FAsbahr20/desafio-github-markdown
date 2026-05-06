@@ -7,22 +7,22 @@ Olá, visitante 👽! Sejam bem-vindos(as)! Espero que a sua jornada até aqui t
 **Objetivos:**
 
 1. **Criar sua conta no Github:**
-   - Essencial para alcançarmos nossos objetivos.
+   - [X] Essencial para alcançarmos nossos objetivos.
 
-2. **Criar um Repositório:**
-   - Crie um novo repositório no GitHub, nomeando-o como "desafio-github-markdown" ou outro nome.
-   - Adicione o seu README.md ao criar o repositório.
-   - Utilize o Github.dev para editar seu projeto diretamente com o editor web do Github.
-   - Lembre-se: o repositório deve ser público.
+3. **Criar um Repositório:**
+   - [X] Crie um novo repositório no GitHub, nomeando-o como "desafio-github-markdown" ou outro nome.
+   - [X] Adicione o seu README.md ao criar o repositório.
+   - [X] Utilize o Github.dev para editar seu projeto diretamente com o editor web do Github.
+   - [X] Lembre-se: o repositório deve ser público.
 
-3. **Colaboração:**
-   - Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).
-   - Ambos devem fazer um clone do repositório em suas máquinas locais.
-   - Realizem alterações, Commits, abra issues e pull requests.
+4. **Colaboração:**
+   - [ ] Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).
+   - [ ] Ambos devem fazer um clone do repositório em suas máquinas locais.
+   - [ ] Realizem alterações, Commits, abra issues e pull requests.
 
-4. **Formatação com Markdown:**
-   - Edite o arquivo "README.md" em seu repositório.
-   - Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
+5. **Formatação com Markdown:**
+   - [ ] Edite o arquivo "README.md" em seu repositório.
+   - [ ] Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
 
 <div align="center"><h2> Ao Infinito e Além: 🚀</h2></div>
 
