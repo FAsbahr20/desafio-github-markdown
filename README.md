@@ -16,7 +16,7 @@ Olá, visitante 👽! Sejam bem-vindos(as)! Espero que a sua jornada até aqui t
    - [X] Lembre-se: o repositório deve ser público.
 
 4. **Colaboração:**
-   - [ ] Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).
+   - [X] Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).
    - [ ] Ambos devem fazer um clone do repositório em suas máquinas locais.
    - [ ] Realizem alterações, Commits, abra issues e pull requests.
 
