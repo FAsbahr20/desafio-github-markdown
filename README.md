@@ -17,8 +17,8 @@ Olá, visitante 👽! Sejam bem-vindos(as)! Espero que a sua jornada até aqui t
 
 4. **Colaboração:**
    - [X] Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).
-   - [ ] Ambos devem fazer um clone do repositório em suas máquinas locais.
-   - [ ] Realizem alterações, Commits, abra issues e pull requests.
+   - [X] Ambos devem fazer um clone do repositório em suas máquinas locais.
+   - [X] Realizem alterações, Commits, abra issues e pull requests.
 
 5. **Formatação com Markdown:**
    - [ ] Edite o arquivo "README.md" em seu repositório.
