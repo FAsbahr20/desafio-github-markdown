@@ -21,8 +21,8 @@ Olá, visitante 👽! Sejam bem-vindos(as)! Espero que a sua jornada até aqui t
    - [X] Realizem alterações, Commits, abra issues e pull requests.
 
 5. **Formatação com Markdown:**
-   - [ ] Edite o arquivo "README.md" em seu repositório.
-   - [ ] Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
+   - [X] Edite o arquivo "README.md" em seu repositório.
+   - [X] Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
 
 <div align="center"><h2> Ao Infinito e Além: 🚀</h2></div>
 
